@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "label": "tets",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html"
+    },
+    {
+        "id": 2,
+        "label": "Chicken Paprikash",
+        "source": "No Recipes",
+        "url": "http://norecipes.com/recipe/chicken-paprikash/"
+    },
+    {
+        "id": 4,
+        "label": "string",
+        "source": "string",
+        "url": "https://betterprogramming.pub/how-to-create-a-delete-request-in-fastapi-b4577f9bcb77"
+    },
+    {
+        "id": 5,
+        "label": "string",
+        "source": "string",
+        "url": "https://mail.google.com/mail/u/1/#inbox"
+    },
+    {
+        "id": 7,
+        "label": "string",
+        "source": "string",
+        "url": "https://mail.google.com/mail/u/1/#inbox"
+    },
+    {
+        "id": 6,
+        "label": "string",
+        "source": "string",
+        "url": "https://mail.google.com/mail/u/1/#inbox"
+    },
+    {
+        "id": 8,
+        "label": "string",
+        "source": "string",
+        "url": "https://mail.google.com/mail/u/1/#inbox"
+    }
+]
